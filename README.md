@@ -44,9 +44,5 @@ Instagram · Twitter · LinkedIn · Facebook
 
 ---
 
-## 📸 Demo
-
-🚀 [Try the Live Demo](#) *(Add your Gradio/Streamlit link here if deployed)*  
-📷 Sample Output:
 
 
