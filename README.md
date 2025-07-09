@@ -1,4 +1,3 @@
-# Social_Media_Post_&_Caption_Generator_Using_GenAI
 # 🚀 Social Media Post & Caption Generator using GenAI (GPT-2)
 
 🎯 **Goal**: Automatically generate engaging and optimized social media **captions**, **hashtags**, and **emojis** using **Generative AI** (GPT-2).
