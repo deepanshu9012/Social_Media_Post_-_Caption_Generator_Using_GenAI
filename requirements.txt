@@ -1,0 +1,7 @@
+transformers==4.53.0
+gradio==5.31.0
+torch>=2.0.0
+nltk>=3.8.1
+regex>=2024.11.6
+numpy>=1.24
+requests>=2.31
